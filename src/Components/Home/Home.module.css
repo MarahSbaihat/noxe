@@ -1,0 +1,41 @@
+.img {
+    height: 200px;
+    cursor: pointer;
+}
+
+.h2 {
+    font-size: 15px;
+}
+
+.h22 {
+    font-size: 18px;
+}
+
+.brdr {
+    border-top: 2px solid #fff;
+}
+
+.p {
+    font-size: 12px;
+}
+
+/* .over {
+    width: fit-content;
+    height: fit-content;
+}
+
+.overflow {
+    position: absolute;
+    width: 100%;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.205);
+    z-index: 9999;
+}
+
+.icon {
+    top: -200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-size: 20px;
+} */

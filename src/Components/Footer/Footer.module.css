@@ -1,0 +1,51 @@
+.link {
+    color: #fff;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.link:hover {
+    text-decoration: underline;
+    color: #fff;
+}
+
+.link1 {
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+    background: rgba(0, 0, 0, 0.219);
+}
+
+.link1:hover {
+    text-decoration: underline;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.288);
+}
+
+.p {
+    color: #fff;
+    font-size: 12px;
+}
+
+i {
+    color: #fff;
+    font-size: 10px;
+}
+
+.h3 {
+    color: #fff;
+    font-size: 18px;
+}
+
+.fa {
+    font-size: 20px;
+}
+
+.faa {
+    font-size: 18px;
+}
+
+.bg {
+    background: rgba(0, 0, 0, 0.151);
+    text-align: center;
+}
